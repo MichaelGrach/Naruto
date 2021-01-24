@@ -1,0 +1,17 @@
+body {
+ background-image: url("https://res.cloudinary.com/dbk4ntdzb/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1610303315/наруто_5_ij33li.jpg");
+  background-color: #171429;
+ padding: 15px;
+ font-size: medium;
+}
+h1 {
+ margin:5px 20px;
+ font-size:60px;
+ color:#800000;
+}
+img {
+ width: 270px;
+  margin: 5px;
+ border-radius: 12px;
+ box-shadow: 2px 2px 1px 1px #b2b2b2;
+} 
